@@ -4,11 +4,10 @@
 ## *Advantages of cloud computing:* #
    1.  ### Pay as you go: #
 
-        There no need to buy the expensive hardware for CPU,DIMMs,etc. All these resources are available virtually and can be accessed using cloud services.\
-
-        We just have to pay exactly for the time we are using these resources. The bill for using them is decided on the following two factors:
-            + Time for which the resources aare being used
-            + Amount of resources being used.  
+  There no need to buy the expensive hardware for CPU,DIMMs,etc. All these resources are available virtually and can be accessed using cloud services.
+We just have to pay exactly for the time we are using these resources. The bill for using them is decided on the following two factors:
+- Time for which the resources aare being used
+- Amount of resources being used.  
 
     2. ### On demand scale up or scale down: #
 
