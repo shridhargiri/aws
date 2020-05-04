@@ -2,7 +2,7 @@
 * Accessing the S3 bucket service directly from an instance is not possible.
 * To access the S3 service, IAM role needs to be created which gives permission to our bucket to be accessed from the instance.
 * Refer to this image from **Create Role** page on AWS console for information on roles in IAM:
->   [roles_in_iam](iam_roles.png)  
+> [roles_in_iam](https://github.com/shridhargiri/aws/blob/aws-learning/aws-learning/IAM/iam_roles.PNG)  
 
 ### *Steps for creating a rule to access S3 bucket in AWS instance* #
   1. In the AWS console, under 'Services', look for 'Security, Identity, & Compliance' section.
